@@ -9,3 +9,11 @@ Sync Will Synchronize your time with worldwide time servers
 
 # Notice
 You Should Run This app with Administrator privileges to work correctly.
+
+# TODO:
+
+- [ ] add old time selector
+- [ ] add time server url selector
+- [ ] add real and fake time clock
+- [ ] beautify code
+- [ ] add windows privilege escalation
