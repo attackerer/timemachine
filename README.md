@@ -8,4 +8,4 @@ Go Back sets An Old Time to Your Windows OS Time
 Sync Will Synchronize your time with worldwide time servers
 
 # Notice
-You Should Run This app with Administrator privileges
+You Should Run This app with Administrator privileges to work correctly.
